@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpaceX Launch</string>
+    <string name="all">All</string>
+    <string name="past">Past</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="success">Status: Launch succeeded</string>
+    <string name="fail">Status: Launch failed</string>
+    <string name="not_yet_launched">Status: Upcoming Launch</string>
+    <string name="status">Status:</string>
+</resources>

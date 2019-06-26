@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/upcoming"
+          android:id="@+id/menu_upcoming"/>
+    <item android:title="@string/past"
+          android:id="@+id/menu_past"
+    />
+    <item android:title="@string/all"
+          android:id="@+id/menu_all"/>
+</menu>
